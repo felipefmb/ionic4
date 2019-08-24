@@ -1,0 +1,9 @@
+Instalação:
+npm i -g ionic cordova
+
+Gera um page de login
+ionic generate page auth/pages/login
+
+Cria um módulo com nome shared --flat é pra nao criar diretório
+ionic generate module shared/shared --flat
+
